@@ -1,17 +1,11 @@
-# CYB-102 Intermediate Cybersecurity Project
+# Incident Response & Threat Hunting Simulation
 
-An incident response simulation project for the Intermediate Cybersecurity course at CodePath. The project involves analyzing a simulated cyberattack dataset, following a playbook, and documenting the findings in a comprehensive report. The goal is to demonstrate the ability to identify, analyze, and respond to cybersecurity incidents effectively.
+An end-to-end incident response, digital forensics, and threat hunting investigation analyzing a multi-stage enterprise cyberattack dataset using Splunk SIEM telemetry and Catalyst Incident Management.
 
-See [Incident Summary Report](./Incident%20Summary%20Report.pdf) and [Presentation](./Presentation.pdf).
-
-## Owners
-
-- Keesa Lee Young
-- Mukhammadali Yuldoshev
-- Sameer Khan
-- Ashraful Islam
-- Rayna Maruyama
-- John Ian Buñag
+> **Context:** Cybersecurity Fellowship — **CodePath CYB-102: Intermediate Cybersecurity** (Summer 2026)  
+> **Investigators:** Keesa Lee Young, Mukhammadali Yuldoshev, Sameer Khan, Ashraful Islam, Rayna Maruyama, & [John Ian Buñag](https://github.com/ianbunag)  
+> **Technical Report:** [Incident Summary Report (PDF)](./Incident%20Summary%20Report.pdf)  
+> **Briefing Deck:** [Incident Response Presentation (PDF)](./Presentation.pdf)
 
 ## Attack Timeline
 
